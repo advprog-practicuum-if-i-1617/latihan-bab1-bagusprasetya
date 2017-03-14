@@ -10,6 +10,6 @@ Yang bertanda tangan dibawah ini
 
 Yang membuat pernyataan,
 
-photo_2017-03-14_15-19-27.jpg
+
 
 BAGUS PRASETYA
