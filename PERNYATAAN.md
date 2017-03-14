@@ -11,7 +11,7 @@ Yang bertanda tangan dibawah ini
 Yang membuat pernyataan,
 
 <p align="left">
-  <img src="https://github.com/advprog-practicuum-if-i-1617/latihan-bab1-bagusprasetya/raw/master/photo%2017-03-14_15-19-27.jpg" width="100" height="100"/>
+  <img src="https://github.com/advprog-practicuum-if-i-1617/latihan-bab1-bagusprasetya/raw/master/photo_%2017-03-14_15-19-27.jpg" width="100" height="100"/>
 </p>
 
 
